@@ -120,13 +120,6 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=huangjien&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
 
   
 
@@ -138,7 +131,7 @@
   
 
 <br/>  
-
+----
 <div align="center">
             <a href="https://www.buymeacoffee.com/huangjien" target="_blank" style="display: inline-block;">
                 <img
@@ -148,5 +141,5 @@
             </a></div>
 <br />
 
-----
-<div align="center">Copyright <a href="[https://profilinator.rishav.dev/](https://github.com/huangjien/huangjien/blob/main/LICENSE)" target="_blank">MIT</a></div>
+
+<div align="center">@2023 Copyright <a href="[https://profilinator.rishav.dev/](https://github.com/huangjien/huangjien/blob/main/LICENSE)" target="_blank">MIT</a></div>

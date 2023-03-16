@@ -1,9 +1,10 @@
 <div align="center">
-<img src="helloworld.gif" align="center" style="width: 100%; height: 200px" />
+<img src="helloworld.gif" align="strech" style="width: 100%; height: 200px" />
 </div>  
   
 
-### *<div align="center">I'm Jien Huang, a full-time full-stack DevOps developer 👨‍💻 working @merative.com (Previous IBM Watson Health) 🚀</div>*  
+### *<div align="center">I'm Jien Huang, a full-time full-stack DevOps developer 👨‍💻 </div>* 
+### *<div align="center">working @merative.com (Previous IBM Watson Health) 🚀</div>*  
   
 
 - 🔭 I’m currently working on [A general template](https://github.com/huangjien-com)  
@@ -12,10 +13,10 @@
 - 🌱 I have some K8S, Azure certificate and experienced on Testing Automation.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to DevOps and Testing Automation.  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Believe that full-stack give you the capability to implement your ideas  
   
 
 <br/>  

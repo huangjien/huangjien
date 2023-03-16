@@ -148,4 +148,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Copyright <a href="[https://profilinator.rishav.dev/](https://github.com/huangjien/huangjien/blob/main/LICENSE)" target="_blank">MIT</a></div>

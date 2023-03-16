@@ -16,7 +16,7 @@
 - ❓ Ask me about anything related to DevOps and Testing Automation.  
   
 
-- ⚡ Believe that full-stack give you the capability to implement your ideas  
+- ⚡ Believe that full-stack gives you the capabilities to implement your ideas.  
   
 
 <br/>  
@@ -131,7 +131,7 @@
   
 
 <br/>  
-----
+
 <div align="center">
             <a href="https://www.buymeacoffee.com/huangjien" target="_blank" style="display: inline-block;">
                 <img

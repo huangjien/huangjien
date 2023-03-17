@@ -1,5 +1,5 @@
 <div align="center">
-<img src="helloworld.gif" align="strech" style="width: 100%; height: 200px" />
+<img src="helloworld.gif" align="strech" style="width: 100%" />
 </div>  
   
 

@@ -1,16 +1,16 @@
 <div align="center">
-<img src="helloworld.gif" align="strech" style="width: 100%" />
+<img src="helloworld.gif" align="strech" style="width: 80%" />
 </div>  
   
 
-### *<div align="center">I'm Jien Huang, a full-time full-stack DevOps developer 👨‍💻 </div>* 
+### *<div align="center">This is Jien Huang, a full-time full-stack DevOps developer 👨‍💻 </div>* 
 ### *<div align="center">working @merative.com (Previous IBM Watson Health) 🚀</div>*  
   
 
-- 🔭 I’m currently working on [A general template](https://github.com/huangjien-com)  
+- 🔭 Currently working on [A general template](https://github.com/huangjien-com)  
   
 
-- 🌱 I have some K8S, Azure certificate and experienced on Testing Automation.  
+- 🌱 Have gained some K8S, Azure certificate and experienced on DevOps, Testing Automation.  
   
 
 - ❓ Ask me about anything related to DevOps and Testing Automation.  
@@ -35,8 +35,7 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>   
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
 </div>
 
@@ -45,9 +44,7 @@
 
 
 ### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<div align="center">    
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -101,7 +98,7 @@
 
 
 ## Connect with me  
-<div align="center">
+<div >
 <a href="https://github.com/huangjien" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -118,21 +115,21 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=huangjien&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div ><img src="https://github-readme-stats.vercel.app/api?username=huangjien&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
   
 
 <br/>  
 
-<div align="center">
+<div >
 <img src="https://komarev.com/ghpvc/?username=huangjien&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
 
-<div align="center">
+<div >
             <a href="https://www.buymeacoffee.com/huangjien" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 

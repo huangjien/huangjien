@@ -1,5 +1,5 @@
 <div align="center">
-<img src="helloworld.gif" align="strech" style="width: 80%" />
+<img src="helloworld.gif" style="width: 80%" />
 </div>  
 
 ### *<div align="center">This is Jien Huang, a full-time full-stack DevOps developer 👨‍💻 </div>* 

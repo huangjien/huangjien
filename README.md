@@ -1,13 +1,11 @@
 <div align="center">
 <img src="helloworld.gif" align="strech" style="width: 80%" />
 </div>  
-  
-
 ### *<div align="center">This is Jien Huang, a full-time full-stack DevOps developer 👨‍💻 </div>* 
 ### *<div align="center">working @merative.com (Previous IBM Watson Health) 🚀</div>*  
   
 
-- 🔭 Currently working on [A general template](https://github.com/huangjien-com)  
+- 🔭 Currently working on [A general template](https://github.com/huangjien-com), it looks like [this](https://www.huangjien.com)
   
 
 - 🌱 Have gained some K8S, Azure certificate and experienced on DevOps, Testing Automation.  

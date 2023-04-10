@@ -1,10 +1,11 @@
 <div align="center">
-<img src="helloworld.gif" style="width: 80%" />
+<img src="helloworld.gif" height="180"  />
 </div>  
 
-### *<div align="center">This is Jien Huang, a full-time full-stack DevOps developer 👨‍💻 </div>* 
-### *<div align="center">working @merative.com (Previous IBM Watson Health) 🚀</div>*  
+#### *<div align="center">This is Jien Huang, a full-time full-stack DevOps developer 👨‍💻 </div>* 
+#### *<div align="center">working @merative.com (Previous IBM Watson Health) 🚀</div>*  
   
+<br/>
 
 - 🔭 Currently working on [A general template](https://github.com/huangjien-com), it looks like [this](https://www.huangjien.com) .
   

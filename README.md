@@ -132,5 +132,3 @@
             </a></div>
 <br />
 
-
-<div align="center">@2023 Copyright <a href="[https://profilinator.rishav.dev/](https://github.com/huangjien/huangjien/blob/main/LICENSE)" target="_blank">MIT</a></div>

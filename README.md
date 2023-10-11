@@ -23,7 +23,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td align="top" width="33%">
 
 
 
@@ -39,7 +39,7 @@
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js"  /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td align="top" width="33%">
 
 
 
@@ -67,7 +67,7 @@
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring"  /></a> 
 </div>
 
-</td><td valign="top" width="33%">
+</td><td align="top" width="33%">
 
 
 

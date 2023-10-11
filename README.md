@@ -111,18 +111,6 @@
 ## Github Stats  
 <div ><img src="https://github-readme-stats.vercel.app/api?username=huangjien&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-
-  
-
-<br/>  
-
-<div >
-<img src="https://komarev.com/ghpvc/?username=huangjien&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
 <div >
             <a href="https://www.buymeacoffee.com/huangjien" target="_blank" style="display: inline-block;">
                 <img

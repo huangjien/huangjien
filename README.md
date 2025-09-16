@@ -1,122 +1,240 @@
-<div align="center">
-<img src="helloworld.gif" height="180"  />
-</div>  
+# Jien Huang – DevOps Engineer
 
-#### *<div align="center">This is Jien Huang, a full-time full-stack DevOps developer 👨‍💻 </div>* 
-#### *<div align="center">working @merative.com (Previous IBM Watson Health) 🚀</div>*  
-  
-<br/>
+![Profile](https://img.shields.io/badge/DevOps-Engineer-blue) ![Experience](https://img.shields.io/badge/Experience-20%2B%20Years-green) ![Location](https://img.shields.io/badge/Location-Ireland-orange)
 
-- 🔭 Currently working on [A general template](https://github.com/huangjien-com), it looks like [this](https://www.huangjien.com) .
-  
+## 📞 Contact Information
+- **Phone:** +353871469587
+- **Email:** [huangjien@gmail.com](mailto:huangjien@gmail.com)
+- **Website:** [huangjien.com](https://www.huangjien.com)
+- **LinkedIn:** [linkedin.com/in/huangjien](https://linkedin.com/in/huangjien)
+- **GitHub:** [github.com/huangjien](https://github.com/huangjien)
 
-- 🌱 Have gained some K8S, Azure certificate and experienced on DevOps, Testing Automation.  
-  
+---
 
-- ❓ Ask me about anything related to DevOps and Testing Automation.  
-  
+## 🚀 Professional Summary
 
-- ⚡ Believe that full-stack gives you the capabilities to implement your ideas.  
-  
+Experienced DevOps Engineer with 20+ years in software development, testing, and infrastructure automation, specializing in cloud migrations and CI/CD pipeline optimization. Proven track record of reducing deployment times from hours to minutes, leading cross-functional teams, and implementing AI-driven DevOps solutions across enterprise environments. Passionate about solving complex technical challenges and mentoring teams to achieve operational excellence.  
 
-<br/>  
+---
 
+## Work Experience
 
-## My Skill Set  
-<table><tr><td align="top" width="33%">
+### Merative — *Lead Developer, DevOps Engineering*  
+*Oct 2022 – Present*  
 
+**Responsibilities:**
+- Introduce AI into the DevOps process, improve the efficiency of the DevOps process.  
+- Design and implement the system architecture, ensure high system availability, reduce costs through efficient system design.  
+- Migrate DevOps, Development and Testing Environments, System from IBM Cloud to Microsoft Azure.  
+- Migrate RTC, IBM Fyre from IBM to Jira Cloud, GitHub and Azure.  
 
+**Technologies:**  
+Azure, Docker, K8S, Jenkins, Ansible, GitHub, Jira, Python  
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50px" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap"  /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3"  /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5"  /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron"  /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript"  /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript"  /></a>   
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js"  /></a>  
-</div>
+---
 
-</td><td align="top" width="33%">
+### IBM — *DevOps Engineer*  
+*Jan 2018 – Oct 2022*  
 
+**Responsibilities:**
+- Develop the disaster recovery plan, implement automation to detect system failures.  
+- Integrate automation into CI, develop deployment dashboard for DevOps team.  
+- Help to develop new Automation Framework based on Testcafe.  
+- Improve the product deployment process (from 4–6 hours to 15–20 minutes).  
+- Migrate server farm from Dublin Lab to IBM Fyre (PaaS).  
 
+**Technologies:**  
+IBM Cloud, K8S, Docker, Jenkins, Ansible, GitHub, Jira, Python, Chef  
 
-### Backend  
-<div align="center">    
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px;width:50px;height:50px;;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB"  /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js"  /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux"  /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx"  /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python"  /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js"  /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git"  /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash"  /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React"  /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular"  /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C"  /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#"  /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap"  /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker"  /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java"  /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes"  /></a>  
-<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible"  /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS"  /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI"  /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring"  /></a> 
-</div>
+---
 
-</td><td align="top" width="33%">
+### IBM — *Automation Testing Engineer*  
+*Apr 2016 – Jan 2018*  
 
+**Responsibilities:**
+- Integrate automation into CI, develop deployment dashboard for DevOps team.  
+- Investigate and develop Facade Layer Testing Framework for IBM Watson Health (SPM).  
+- Investigate and develop Testing data management repository.  
+- Help the team members solve blockers.  
 
+**Technologies:**  
+Java, RMI, REST API, Jenkins  
 
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS"  /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP"  /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes"  /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux"  /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git"  /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash"  /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js"  /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python"  /></a>   
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins"  /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px;width:50px;height:50px;" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure"  /></a>   
- 
-</div>
+---
 
-</td></tr></table>  
+### Workday — *Automation Testing Engineer*  
+*Nov 2012 – Apr 2016*  
 
-<br/>  
+**Responsibilities:**
+- Develop automation scripts and analyze automation results of Workday products.  
+- Improve existing automation framework.  
+- Monitor integration progress, solve blocker issues.  
+- Mentor new employees on framework, agile environment, and problem solving.  
 
+**Technologies:**  
+Selenium 2, Java, Web Services, Amazon EC2, Bamboo  
 
-## Connect with me  
-<div >
-<a href="https://github.com/huangjien" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/huangjien" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/huangjien" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+---
 
-<br/>  
+### Sage Technologies — *Automation & Performance Testing Engineer*  
+*Sep 2008 – Nov 2012*  
 
+**Responsibilities and Achievements:**
+- Developed 3 automation frameworks for SageCRM (Rational Functional Tester, Selenium). Covered L10N/I18N, Web Services tests.  
+- Maintained and ran automation tests against builds/patches (v5.8–v7.2).  
+- Ran performance tests and analyzed results against major SageCRM versions.  
 
-## Github Stats  
-<div ><img src="https://github-readme-stats.vercel.app/api?username=huangjien&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+**Technologies:**  
+Rational Functional Tester, Silk Performer, Selenium, C#, Java, VB  
 
-<div >
-            <a href="https://www.buymeacoffee.com/huangjien" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
+---
 
+### HP — *Performance & Automation Test Consultant*  
+*May 2008 – Sep 2008*  
+
+**Responsibilities and Achievements:**
+- Developed a performance test product.  
+- Designed performance & automation standard process for CCB Beijing Software Development Center.  
+
+---
+
+### hiSoft Technology International Limited  
+*Senior Project Manager, Project Manager, Test Lead*  
+*Jan 2004 – May 2008*  
+
+**Responsibilities and Achievements:**  
+- Department management, project management, technical support on automation & performance testing.  
+
+**Projects:**  
+- **Sage Automation Test Framework (2007.12 – 2008.3):** Ireland Sage Tech, developed automation framework (Rational Functional Tester), migrated from SilkTest.  
+- **Intel/HP Projects (2007.7 – 2007.12):** Senior PM, planned projects, monitored progress, communicated with customers, reported to management.  
+- **Citigroup APS Projects (2006.7 – 2007.7):** Performance & automation test leader.  
+- **Beijing Olympics eSIS (2006.5 – 2006.7):** Consultant on performance test (LoadRunner).  
+- **CCB Loan Process System (2006.1 – 2006.5):** Consultant on performance & automation test.  
+- **IBM Lotus Workplace (2004.1 – 2005.12):** Deployment, issue analysis, GUI automation framework design.  
+
+**Technologies:**  
+QC, QTP, LoadRunner, Java, Rational Functional Tester, DB2, WebSphere  
+
+---
+
+### Excel Technology — *Project Manager*  
+*Dec 2002 – Dec 2003*  
+
+**Projects:**  
+- **Loan Systems (2003.1 – 2004.1):** Volkswagen Financial Service, Minsheng Bank of China. PM and technical support.  
+
+**Technologies:**  
+Java, Oracle  
+
+---
+
+### Founder Group — *Project Manager, Senior Programmer*  
+*Jul 1999 – Nov 2002*  
+
+**Projects:**  
+- **Consumer Credit System (2002.4 – 2002.12):** Project Manager, CMM-L2 certified.  
+- **CCB Credit Card System (2000.12 – 2002.2):** Senior Programmer, developed and maintained CCB Credit Card System. Translated BEA Tuxedo Quick Start to Chinese.  
+
+**Technologies:**  
+C, Java, Tuxedo, Informix  
+
+---
+
+### ICBC — *Software Engineer*  
+*Jul 1996 – Jul 1999*  
+
+**Projects:**  
+- **Client System of Mainframe (1998.11 – 1999.7):** Guangxi Province Branch, C + Informix.  
+- **Credit Card System (1997.6 – 1997.7):** C + Informix.  
+- **Saving System (1997.2 – 1997.5):** C + Informix.  
+- **Internship (1996.7 – 1997.2):** Junior positions across the bank.  
+
+---
+
+## 🌍 Languages
+
+![English](https://img.shields.io/badge/English-Native-brightgreen)
+![Chinese](https://img.shields.io/badge/Chinese-Native-brightgreen)
+
+- **English:** Native or Bilingual Proficiency
+- **Chinese (Mandarin):** Native or Bilingual Proficiency  
+
+---
+
+## 💻 Technical Skills
+
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=flat&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![DB2](https://img.shields.io/badge/IBM_DB2-052FAD?style=flat&logo=ibm&logoColor=white) ![Informix](https://img.shields.io/badge/Informix-1F70C1?style=flat&logo=ibm&logoColor=white)
+
+### Testing & Automation
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+- **Test Frameworks:** Selenium, TestCafe, QTP, LoadRunner, Rational Functional Tester
+- **Performance Testing:** LoadRunner, Silk Performer
+- **API Testing:** REST API, Web Services
+
+### Project Management & Collaboration
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+- **Tools:** Jira, Rational Team Concert, Bamboo
+- **Methodologies:** Agile, Scrum, CMM-L2
+- **Leadership:** Team Management, Cross-functional Collaboration  
+
+---
+
+## 🚀 Featured Projects
+
+### 1. AI-Driven DevOps Automation Platform
+**Description:** Led the development of an AI-enhanced DevOps platform that automatically detects system failures and optimizes deployment processes.
+- **Technologies:** Python, Azure AI, Kubernetes, Docker, Jenkins
+- **Impact:** Reduced system downtime by 60% and improved deployment success rate to 99.5%
+- **Role:** Lead Developer & Architect
+
+### 2. Enterprise Cloud Migration (IBM to Azure)
+**Description:** Orchestrated complete migration of enterprise infrastructure from IBM Cloud to Microsoft Azure, including DevOps toolchain migration.
+- **Technologies:** Azure, Kubernetes, Docker, Ansible, GitHub Actions
+- **Impact:** Achieved 40% cost reduction and improved system performance by 35%
+- **Scope:** 200+ applications, 50+ development teams
+
+### 3. Deployment Time Optimization Framework
+**Description:** Designed and implemented automation framework that revolutionized product deployment processes.
+- **Technologies:** Jenkins, Ansible, Python, Docker, Kubernetes
+- **Impact:** Reduced deployment time from 4-6 hours to 15-20 minutes
+- **Achievement:** 95% reduction in deployment time across all products
+
+### 4. TestCafe Automation Framework
+**Description:** Developed comprehensive testing framework for IBM Watson Health applications with integrated CI/CD pipeline.
+- **Technologies:** TestCafe, JavaScript, Jenkins, Docker
+- **Impact:** Increased test coverage by 80% and reduced manual testing effort by 70%
+- **Features:** Cross-browser testing, parallel execution, detailed reporting
+
+### 5. Multi-Platform Testing Suite (Workday)
+**Description:** Built scalable automation testing infrastructure supporting multiple Workday products across different environments.
+- **Technologies:** Selenium, Java, Amazon EC2, Bamboo
+- **Impact:** Enabled continuous testing for 15+ products with 24/7 automated execution
+- **Scale:** 1000+ test cases, multiple geographic regions
+
+---
+
+## 🎓 Education
+
+**Nanjing University of Aeronautics and Astronautics**  
+*Bachelor of Science in Computer Science & Technology*  
+**Graduation:** July 1996  
+**Relevant Coursework:** Software Engineering, Database Systems, Computer Networks, Algorithm Design
+
+---
+
+## 🏆 Certifications
+
+![CKAD](https://img.shields.io/badge/CKAD-Certified-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/AZ--400-Certified-0089D0?style=flat&logo=microsoft-azure&logoColor=white)
+
+- **CKAD:** Certified Kubernetes Application Developer (Linux Foundation)
+- **AZ-400:** Designing and Implementing Microsoft DevOps Solutions (Microsoft)
+- **Additional:** Agile Testing Certification, Performance Testing Specialist
